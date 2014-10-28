@@ -1,5 +1,8 @@
-BlurEffectForAndroidDesign
-==========================
+our QQ-group is 254202293
+
+code目录下包括
+1、仿微信的渐变滑动
+2、高斯模糊的一个例子
 
 Sample to show how to implement blur graphical tricks
 
