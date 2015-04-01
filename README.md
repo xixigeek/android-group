@@ -8,12 +8,6 @@ code目录下包括
 
 3、模仿单摆的一个简单动画
 
-Sample to show how to implement blur graphical tricks
-
-All the explanations could be found here: http://nicolaspomepuy.fr/?p=18
-
-A sample is available on the Google Play Store at this adress: https://play.google.com/store/apps/details?id=com.npi.blureffect
-
 Screenshots :
 
 ![Alt text](http://img.blog.csdn.net/20141120145940738)
