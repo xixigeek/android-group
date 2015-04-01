@@ -6,6 +6,8 @@ code目录下包括
 
 2、高斯模糊的一个例子
 
+3、模仿单摆的一个简单动画
+
 Sample to show how to implement blur graphical tricks
 
 All the explanations could be found here: http://nicolaspomepuy.fr/?p=18
